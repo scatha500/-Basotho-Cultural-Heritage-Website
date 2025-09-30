@@ -112,7 +112,7 @@ button[type="submit"]:hover{
 }
 .transition-heading:hover {
 transform: scale(0.5);
-color: white;
+color: dimgrey;
 }
 .container-1{
 	display: grid;
@@ -234,6 +234,7 @@ header nav ul{
 	color:#000e05;
 	text-align: center;
 }
+
 
 
 

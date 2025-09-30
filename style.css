@@ -99,7 +99,7 @@ button[type="submit"]:hover{
 
 
 #home{
-	background-color:#00e0ff ;
+	background-color:white ;
 	font-family: sans-serif;
 	 
 
@@ -127,7 +127,7 @@ color: white;
 	
 }
 .crafts{
-	background-color: #00e0ff ;
+	background-color: white ;
 	font-family: sans-serif;
 }
 .wovenbasket{
@@ -180,10 +180,10 @@ color: white;
 	transition: opacity 0.3s ease-in-out;
 }
 .body{
-	background-color:  #00e0ff;
+	background-color:  white;
 }
 .contacts{
-	background-color:#00e0ff ;
+	background-color:white ;
 }
 header{
 	background-color: #00e0ff ;
@@ -198,7 +198,7 @@ header nav ul{
 	justify-content: 0 20px;
 }
 #music{
-	background-color:  #00e0ff;
+	background-color:  white;
 }
 #home img{
 	align-self: center;
@@ -234,6 +234,7 @@ header nav ul{
 	color:#000e05;
 	text-align: center;
 }
+
 
 
 
